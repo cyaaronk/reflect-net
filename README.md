@@ -15,7 +15,13 @@ Pure ray tracing, on the other hand, does not reuse the color on the screen but 
 (Pending for update)
 
 ## Results
+<img src=results/inp1.png width=200 height=200> <img src=results/gt1.png width=200 height=200> <img src=results/pred1.png width=200 height=200>
 
+<img src=results/inp2.png width=200 height=200> <img src=results/gt2.png width=200 height=200> <img src=results/pred2.png width=200 height=200>
+
+<img src=results/inp3.png width=200 height=200> <img src=results/gt3.png width=200 height=200> <img src=results/pred3.png width=200 height=200>
+
+<img src=results/inp4.png width=200 height=200> <img src=results/gt4.png width=200 height=200> <img src=results/pred4.png width=200 height=200>
 
 ## Dataset
 (Pending for update)
